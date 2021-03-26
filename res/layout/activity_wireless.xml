@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    
+    android:gravity="top"
+    tools:context=".Wireless" >
+
+    <ImageButton
+        android:layout_width="wrap_content"
+         
+        android:layout_height="155dp"
+        
+       android:textSize="20sp" 
+        android:id="@+id/ch"
+        android:layout_marginLeft="70dp"
+         android:background="#ffffff"
+       android:textColor="#ffffff"
+       android:src="@drawable/a"
+       android:layout_marginTop="10dp"
+        />
+
+   <ImageButton
+       android:layout_width="match_parent"
+       android:layout_height="120dp"
+      
+       android:textSize="20sp"
+        android:id="@+id/te"
+       android:background="#ffffff"
+       android:textColor="#ffffff"
+       android:src="@drawable/quiz"
+       android:layout_marginTop="30dp"
+         />
+    <ImageButton
+       android:layout_width="match_parent"
+       android:layout_height="100dp"
+       
+       android:textSize="20sp"
+        android:id="@+id/ref"
+        android:background="#ffffff"
+       android:textColor="#ffffff"
+       android:src="@drawable/ref"
+       android:layout_marginTop="30dp"
+         />
+
+</LinearLayout>

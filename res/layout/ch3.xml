@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="top"
+    >
+    
+      <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/chhhh1"
+        android:id="@+id/b31"
+        android:layout_marginTop="5dp"
+       
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        
+        android:textSize="20sp" />
+        <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/chhhh2"
+        android:layout_marginTop="5dp"
+       
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        
+        android:id="@+id/b32"
+        android:textSize="20sp" />
+          <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/chhhh3"
+        android:layout_marginTop="5dp"
+       
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        
+        android:id="@+id/b33"
+        android:textSize="20sp" />
+            <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:text="@string/chhhh4"
+        android:layout_marginTop="5dp"
+       
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        
+        android:id="@+id/b34"
+        android:textSize="20sp" />
+              <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="5dp"
+       
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        
+        android:text="@string/chhhh5"
+        android:id="@+id/b35"
+        android:textSize="20sp" />
+           
+</LinearLayout>

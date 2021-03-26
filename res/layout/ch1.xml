@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   
+    android:gravity="top"
+    >
+    
+      <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:id="@+id/b1"
+        android:text="@string/chh1"
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        android:textSize="20sp" />
+        <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+         android:text="@string/chh2"
+        android:layout_marginTop="5dp"
+       
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        android:id="@+id/b2"
+        android:textSize="20sp" />
+          <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/chh3"
+        android:layout_marginTop="4dp"
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        android:id="@+id/b3"
+        android:textSize="20sp" />
+            <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/chh4"
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        android:layout_marginTop="4dp"
+        android:id="@+id/b4"
+        android:textSize="20sp" />
+         <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/chh5"
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        android:layout_marginTop="4dp"
+        android:id="@+id/b5"
+        android:textSize="20sp" />
+               <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/chh6"
+        android:background="#00bfff"
+       android:textColor="#ffffff"
+        android:layout_marginTop="4dp"
+        android:id="@+id/b6"
+        android:textSize="20sp" />
+
+</LinearLayout>

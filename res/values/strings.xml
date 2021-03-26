@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WirelessPro</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+       <string name="txt">Wireless Notes</string>
+       <string name="test">Tests</string>
+       
+        <string name="ch1">Introduction to Wireless communicatio systems</string>
+         <string name="ch2">Wireless Networks</string>
+          <string name="ch3">Overview of Wireless systems</string>
+           <string name="ch4">Wireless Local Area Netwok</string>
+            <string name="ch5">Network-layer Security</string>
+            
+            
+                  <string name="t1">Chapter 1</string>
+         <string name="t2">Chapter 2</string>
+          <string name="t3">Chapter 3</string>
+           <string name="t4">Chapter 4</string>
+            <string name="t5">Chapter 5</string>
+            
+            
+          <string name="chh1">Examples of wireless communication systems</string>
+         <string name="chh2">Wireless communication systems defination</string>
+          <string name="chh3">Paginig Sysytems</string>
+           <string name="chh4">Cordless telephone system</string>
+            <string name="chh5">Cellular Telephone System</string>
+			<string name="chh6">How a cellular Telephone System is made</string>
+			
+			
+			<string name="chhh1">Bluetooth(802.15.1)</string>
+         <string name="chhh2">Wi-Fi(802.11)</string>
+          <string name="chhh3">Wi-Fi:Physical Properties</string>
+           <string name="chhh4">Wi-Fi:Collisionn avoidance</string>
+			<string name="chhh5">Wi-Fi:Distribution System</string>
+			<string name="chhh6">Wi-Fi:Frame Format</string>
+			<string name="chhh7">WiMAX(802.16)</string>
+			
+			
+			<string name="chhhh1">First-and Second generation cellular systems</string>
+         <string name="chhhh2">Cellular communications from 1G to 3G</string>
+          <string name="chhhh3">Road map for higher data rate capacity in 3G</string>
+           <string name="chhhh4">Wireless 4G systems</string>
+			<string name="chhhh5">Future wireless networks</string>
+			
+				<string name="chhhhh1">WLAN</string>
+         <string name="chhhhh2">WLAN equipment</string>
+          <string name="chhhhh3">WLAN topologies</string>
+           <string name="chhhhh4">WLAN technologies</string>
+			<string name="chhhhh5">IR technology</string>
+			 <string name="chhhhh6">UHF Narrowband technology</string>
+			<string name="chhhhh7">IEEE 802.11 WLAN</string>
+			
+			<string name="chhhhhh1">IPsec and Virtual Private networks(VPNs)</string>
+         <string name="chhhhhh2">The AH and ESP protocols</string>
+          <string name="chhhhhh3">Security association</string>
+           <string name="chhhhhh4">The IPsecDatagram</string>
+			<string name="chhhhhh5">IKE:Key Management in IPsec</string>
+			 <string name="chhhhhh6">Securing wireless LAN</string>
+			<string name="chhhhhh7">Operational Security:Firewall and Intrusion Detection Systems</string>
+			
+			
+						
+									   
+    <string name="start_quiz">Start Quiz</string>
+    <string name="score">Score :0</string>
+							<string name="question">Question :1/x</string>
+							<string name="time">00:30</string>
+							<string name="qu">Here is a sample question</string>
+						
+									<string name="option1">option1</string>
+									<string name="option2">option2</string>
+									<string name="option3">option3</string>
+									<string name="confirm">Confirm</string>
+									<string name="s">High score</string>
+									<string name="ref">Refrence Materials</string>
+									
+</resources>

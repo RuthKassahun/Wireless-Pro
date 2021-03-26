@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+   <style>
+   .indent {
+    text-indent: 30px;
+	}
+   </style>
+   </head>
+	
+   <body>
+	
+      <header >
+         <hr>
+      </header>
+      <article>
+	  <section>
+	  <center>
+	<h3><font color=#00bfff> Authentication Header (AH)</font></h3></center>
+	<center><h3><font color='red'>
+		<u></u></font></h3></center>
+	   
+	   </section>
+	   
+         <section>
+The first new header is AH (Authentication Header). It provides integrity checking and antireplay security, but not secrecy (i.e., no data encryption). 
+
+	 </section>
+		 
+	The use of AH in transport mode is illustrated in Fig. 5.1. In IPv4 it is interposed between the IP header (including any options) and the TCP header. In IPv6 it is just another extension header and treated as such. 
+In fact, the format is close to that of a standard IPv6 extension header. The payload may have to be padded out to some particular length for the authentication algorithm, as shown.
+
+		</section>
+		<section>
+	Let us now examine the AH header. The Next header field is used to store the previous value that the IP Protocol field had before it was replaced with 51 to indicate that an AH header follows.
+ In most cases, the code for TCP (6) will go here. The Payload length is the number of 32-bit words in the AH header minus 2.
+The Security parameters index is the connection identifier. It is inserted by the sender to indicate a particular record in the receiver's database. 
+This record contains the shared key used on this connection and other information about the connection. If this protocol had been invented by ITU rather than IETF, this field would have been called Virtual circuit number.
+
+		</section>
+		<section>
+			</section>
+		 <br>
+		</article>
+   </body>
+</html>

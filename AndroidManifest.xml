@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.wirelesspro"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.wirelesspro.Wireless"
+   
+            
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity android:name="com.example.wirelesspro.chapters"></activity>
+            <activity android:name="com.example.wirelesspro.test">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.ch1">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.ch2">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.ch3">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.ch4">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.ch5">
+                 </activity>
+            
+             <activity android:name="com.example.wirelesspro.examp1">
+            
+            
+            </activity>
+            
+             <activity android:name="com.example.wirelesspro.examp1_2">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.examp1_3">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp1_4">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp1_5">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp1_6">
+            
+            </activity>
+             <activity android:name="com.example.wirelesspro.examp2">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp2_2">
+            
+            </activity>
+             <activity android:name="com.example.wirelesspro.examp2_3">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp3">
+            
+            
+            </activity>
+            
+             <activity android:name="com.example.wirelesspro.examp3_2">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.examp3_3">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp3_4">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp3_5">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.examp4">
+            
+            
+            </activity>
+            
+             <activity android:name="com.example.wirelesspro.examp4_2">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.examp4_3">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp4_4">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp4_5">
+            
+            </activity>
+              
+                     <activity android:name="com.example.wirelesspro.examp5">
+            
+            
+            </activity>
+            
+             <activity android:name="com.example.wirelesspro.examp5_2">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.examp5_3">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp5_4">
+            
+            </activity>
+              <activity android:name="com.example.wirelesspro.examp5_5">
+            
+            </activity>
+              
+              
+              
+              
+            <activity android:name="com.example.wirelesspro.ch1_2">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.ch1_3">
+            
+            </activity>
+            
+            <activity android:name="com.example.wirelesspro.QuizActivity">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.QuizDbHelper">
+            
+            </activity>
+             <activity android:name="com.example.wirelesspro.QuizContract">
+            
+            </activity>
+             <activity android:name="com.example.wirelesspro.Question">
+            
+            </activity>
+             <activity android:name="com.example.wirelesspro.MainActivity">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.Category">
+            
+            </activity>
+            <activity android:name="com.example.wirelesspro.Refrences">
+            
+            </activity>
+            
+            
+            
+        
+        
+    </application>
+
+</manifest>
